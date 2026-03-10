@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello from main branch");
+        System.out.println("Feature update: New functionality added");
     }
 }
